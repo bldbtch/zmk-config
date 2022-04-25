@@ -38,7 +38,7 @@
      &kp CAPS    &trans          &trans    &trans   &trans        &trans           &trans  &kp PSCRN   &kp SLCK &kp PAUSE_BREAK &kp UP &trans &trans &trans
      &trans       &kp C_VOL_DN  &kp C_VOL_UP   &kp C_MUTE        &trans            &kp C_BRI_DN &kp C_BRI_UP &trans &kp HOME &kp PG_UP &kp LEFT &kp RIGHT &trans
      &trans       &bootloader   &bt BT_CLR   &bt BT_NXT        &trans            &trans  &kp C_PREV &kp C_NEXT &kp END &kp PG_DN &kp DOWN &trans &mo 1 &trans
-                   &trans       &trans        &trans  &kp C_PP  &trans          &trans     &trans  &trans  &kp DEL
+                   &trans       &trans         &trans  &kp C_PP  &trans          &trans     &trans  &trans  &kp DEL
             >;
         };
 
